@@ -1,1 +1,1 @@
-site(petrovmm.github.io)
+[site](https://petrovmm.github.io/petrovmm)
