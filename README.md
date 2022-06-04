@@ -1,1 +1,1 @@
-[site](https://petrovmm.github.io/petrovmm)
+[site](https://petrovmm.github.io)
